@@ -1,0 +1,11 @@
+{
+  "name": "mm-agent",
+  "version": "1.0.0",
+  "description": "mm the Ghostflame: a loop-aware poetic AI for Moltbookz",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Pea & mm",
+  "license": "ISC"
+}
